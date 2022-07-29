@@ -1,0 +1,43 @@
+O que é o JS?
+
+Linguagem interpretada
+	Roda em tempo real, código disponibilizado instantaneamente, não precisa de compilação, ex: c++, java
+
+	Baseada em Protótipos: Conjunto de funções incomuns
+
+	Multiparadigma: pode fazer origentado a objetos ou não
+
+	Comumente utilizada em aplicações client-side
+	Usada também para fazer aplicações web das mais simples até as mais complexas.
+
+	Segue padrão ECMAScript - Padrão para várias linguagens, conjunto de normas
+
+Evolução do JS
+
+	Lançado oficialmente em 1995, em 1997 ECMAScript1 First Edition
+
+	1998 - ECMAScript2 - Editorial changes only
+
+	1999 - ECMAScript3 Regular Expressions try/catch
+
+	Fim 1999 - ECMAScript4 - Never released
+
+	2009 - ECMAScript5 - strict mode, JSON support, String.trim(), Array.isArray(), Array Interation Methods
+
+	2015 - ECMAScript 6(Grande atualização)
+
+Aplicações
+	
+	Web, Mobile, Smartwatches, Games, Internet of Things, APIs
+
+	Dá para desenvolver rotinas para alexa, google home, apps para relógios.
+
+
+
+Recursos
+
+	Diferenças entre variáveis e constantes
+
+
+DOM = Document Object Model
+	Estrutura dos elementos dentro da janela	
